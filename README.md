@@ -1,2 +1,2 @@
 # UGCRNN
-# Paper is being submitted,Open source code after the paper is published.
+# Open source all code after publication of the paper.
